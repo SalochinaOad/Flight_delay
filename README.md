@@ -7,26 +7,42 @@ The dataset includes flight information from 2017 to 2018, focusing on arrival a
 
 # Columns Overview
 
-Column Name	Description
-
 Year	Year of the flight
+
 Quarter	Quarter of the year
+
 Month	Month of the flight
+
 DayofMonth	Day of the month
+
 DayOfWeek	Day of the week
+
 FL_DATE	Date of the flight
+
 UNIQUE_CARRIER	Unique marketing carrier code
+
 ORIGIN	Origin airport code
+
 ORIGIN_CITY_NAME	Origin airport city name
+
 ORIGIN_STATE_ABR	Origin state abbreviation
+
 DEST	Destination airport code
+
 DEST_CITY_NAME	Destination city name
+
 DEST_STATE_ABR	Destination state abbreviation
+
 DEP_TIME	Actual departure time (local time in hhmm)
+
 ARR_TIME	Actual arrival time (local time in hhmm)
+
 ARR_DELAY	Arrival delay in minutes (negative = early arrival)
+
 AIR_TIME	Total air time in minutes
+
 DISTANCE	Distance between origin and destination in miles
+
 DISTANCE_GROUP	Distance intervals (every 250 miles)
 
 # Task Overview
