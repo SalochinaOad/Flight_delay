@@ -2,10 +2,10 @@
 Objective
 We are a travel app development company looking to introduce a new feature that helps users identify on-time flights and avoid those that are frequently delayed. This project aims to analyze flight data and build a predictive model to classify flights as likely to be on time or delayed.
 
-Dataset Description
+# Dataset Description
 The dataset includes flight information from 2017 to 2018, focusing on arrival and departure times for non-cancelled and non-diverted flights.
 
-Columns Overview
+# Columns Overview
 Column Name	Description
 Year	Year of the flight
 Quarter	Quarter of the year
@@ -27,7 +27,7 @@ AIR_TIME	Total air time in minutes
 DISTANCE	Distance between origin and destination in miles
 DISTANCE_GROUP	Distance intervals (every 250 miles)
 
-Task Overview
+# Task Overview
 ✅ Task 1: Exploratory Data Analysis (EDA)
 Perform in-depth analysis using Python.
 
@@ -44,7 +44,7 @@ On-Time if arrival delay ≤ 15 minutes
 
 Delayed if arrival delay > 15 minutes
 
-Suggested Modeling Techniques
+# Suggested Modeling Techniques
 - Logistic Regression
 
 - Random Forest
