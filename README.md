@@ -6,6 +6,7 @@ We are a travel app development company looking to introduce a new feature that 
 The dataset includes flight information from 2017 to 2018, focusing on arrival and departure times for non-cancelled and non-diverted flights.
 
 # Columns Overview
+
 Column Name	Description
 Year	Year of the flight
 Quarter	Quarter of the year
@@ -29,6 +30,7 @@ DISTANCE_GROUP	Distance intervals (every 250 miles)
 
 # Task Overview
 ✅ Task 1: Exploratory Data Analysis (EDA)
+
 Perform in-depth analysis using Python.
 
 Understand delay patterns, distribution of delays, and other important insights.
@@ -36,6 +38,7 @@ Understand delay patterns, distribution of delays, and other important insights.
 Provide visualizations and commentary.
 
 ✅ Task 2: Flight Delay Prediction
+
 Build and evaluate at least two models to predict if a flight will be delayed.
 
 Define your own labeling strategy. For example:
